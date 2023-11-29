@@ -1,4 +1,4 @@
-![image](https://github.com/AtividadeJava/Atividade_Java/assets/112137785/4f60cfe5-5476-4044-9a38-62d06ebde0dd)
+![image](https://github.com/AtividadeJava/Atividade_Java/assets/112137785/649c4593-f390-4de5-b188-43595718aef9)
 
 # Atividade Equipe 1
 
