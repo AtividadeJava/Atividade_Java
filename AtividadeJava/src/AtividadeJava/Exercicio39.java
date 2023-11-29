@@ -1,7 +1,7 @@
-package Exercicios110;
+package logica_programacao;
 import java.util.Scanner;
 
-public class Exercicios39 {
+public class Exercicio39 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int contar = 0;

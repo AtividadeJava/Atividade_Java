@@ -1,7 +1,7 @@
-package exercicio;
+package logica_programacao;
 import java.util.Scanner;
 
-public class exercicio17 {
+public class Exercicio17 {
     public static void main(String[] args) {
         // 17. Escreva um programa que leia a idade
         // de uma pessoa e exiba uma mensagem indicando

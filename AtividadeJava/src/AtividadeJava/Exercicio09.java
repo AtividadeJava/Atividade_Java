@@ -1,7 +1,7 @@
-package AtividadeJava;
+package logica_programacao;
 import java.util.Scanner;
 
-public class Exercicio9 {
+public class Exercicio09 {
     public static void main(String[] args) {
         // Cria um objeto Scanner para ler a entrada do usuário
         Scanner scanner = new Scanner(System.in);

@@ -1,8 +1,8 @@
-package exercicio;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class exercicio20 {
+public class Exercicio20 {
     public static void main(String[] args) {
         // 20. Escreva um programa que leia um
         // número inteiro e exiba se ele é par ou ímpar.

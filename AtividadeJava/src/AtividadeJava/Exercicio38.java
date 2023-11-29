@@ -1,4 +1,4 @@
-package Exercicios110;
+package logica_programacao;
 
 public class Exercicio38 {
     public static void main (String[] args){

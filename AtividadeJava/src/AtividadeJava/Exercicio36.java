@@ -1,5 +1,4 @@
-package Exercicios110;
-
+package logica_programacao;
 public class Exercicio36 {
     public static void main (String[] args){
         int contar = 1;

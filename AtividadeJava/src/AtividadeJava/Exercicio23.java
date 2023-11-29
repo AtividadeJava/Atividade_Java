@@ -1,8 +1,8 @@
-package exerc21ao25;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class exerc23 {
+public class Exercicio23 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

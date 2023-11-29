@@ -1,4 +1,4 @@
-package Exercicios110;
+package logica_programacao;
 import java.util.Scanner;
 
 public class Exercicio40 {

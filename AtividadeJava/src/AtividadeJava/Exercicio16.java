@@ -1,7 +1,7 @@
-package exercicio;
+package logica_programacao;
 import java.util.Scanner;
 
-public class exercicio16 {
+public class Exercicio16 {
     public static void main(String[] args) {
         // 16. Faça um programa que verifique se um número é positivo, negativo ou zero.
 

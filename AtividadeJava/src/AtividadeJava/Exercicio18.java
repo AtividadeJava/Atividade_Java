@@ -1,7 +1,7 @@
-package exercicio;
+package logica_programacao;
 import java.util.Scanner;
 
-public class exercicio18 {
+public class Exercicio18 {
     public static void main(String[] args) {
         // 18. Crie um programa que leia
         // dois números inteiros e exiba o maior deles.

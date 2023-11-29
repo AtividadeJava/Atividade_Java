@@ -1,8 +1,8 @@
-package exercicio;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class exercicio19 {
+public class Exercicio19 {
     public static void main(String[] args) {
         // 19. Faça um programa que receba três notas
         // de um aluno e exiba se ele foi aprovado ou reprovado.
