@@ -6,12 +6,12 @@ public class Ex42 {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.print("Digite um número inteiro: ");
+        System.out.print("Digite um nÃºmero inteiro: ");
         int numero = scanner.nextInt();
 
         
         if (numero <= 1) {
-            System.out.println("Por favor, digite um número inteiro maior que 1.");
+            System.out.println("Por favor, digite um nÃºmero inteiro maior que 1.");
         } else {
             
             int divisor = 2;
@@ -28,9 +28,9 @@ public class Ex42 {
 
             
             if (ehPrimo) {
-                System.out.println(numero + " é um número primo.");
+                System.out.println(numero + " Ã© um nÃºmero primo.");
             } else {
-                System.out.println(numero + " não é um número primo.");
+                System.out.println(numero + " nÃ£o Ã© um nÃºmero primo.");
             }
         }
 
