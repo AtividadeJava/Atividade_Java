@@ -7,14 +7,14 @@ public class Ex43 {
         Scanner scanner = new Scanner(System.in);
 
         
-        System.out.print("Digite um número inteiro: ");
+        System.out.print("Digite um nÃºmero inteiro: ");
         int numero = scanner.nextInt();
 
         
         int primeiro = 0, segundo = 1, proximo;
 
         
-        System.out.println("Sequência de Fibonacci até " + numero + ":");
+        System.out.println("SequÃªncia de Fibonacci atÃ© " + numero + ":");
 
         while (primeiro <= numero) {
             System.out.print(primeiro + " ");
