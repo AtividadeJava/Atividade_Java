@@ -5,12 +5,12 @@ public class Ex41 {
 	        Scanner scanner = new Scanner(System.in);
 
 	        
-	        System.out.print("Digite um número inteiro positivo: ");
+	        System.out.print("Digite um nÃºmero inteiro positivo: ");
 	        int numero = scanner.nextInt();
 
 	        
 	        if (numero <= 0) {
-	            System.out.println("Por favor, digite um número inteiro positivo.");
+	            System.out.println("Por favor, digite um nÃºmero inteiro positivo.");
 	        } else {
 	            System.out.println("Divisores de " + numero + ":");
 	            
