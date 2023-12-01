@@ -8,7 +8,7 @@ public class Ex45 {
         int contador = 0;
         int primeiro = 0, segundo = 1;
 
-        System.out.println("Os primeiros 20 números da sequência de Fibonacci:");
+        System.out.println("Os primeiros 20 nÃºmeros da sequÃªncia de Fibonacci:");
 
         while (contador < limite) {
             System.out.print(primeiro + " ");
