@@ -25,11 +25,11 @@ public class Ex44 {
             contador++;
         }
 
-        // Calcula a média das idades
+        // Calcula a mÃ©dia das idades
         double mediaIdades = (double) somaIdades / totalPessoas;
 
         
-        System.out.println("A média das idades é: " + mediaIdades);
+        System.out.println("A mÃ©dia das idades Ã©: " + mediaIdades);
 
         scanner.close();
     }
