@@ -1,7 +1,7 @@
-package Logica_programacao;
+package logica_programacao;
 import java.util.Scanner;
 
-public class Ex44 {
+public class Exercicio44 {
 	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

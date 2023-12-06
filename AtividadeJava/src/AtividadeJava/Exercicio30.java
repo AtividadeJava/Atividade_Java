@@ -1,8 +1,8 @@
-package Lista100Ex;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class Ex30 {
+public class Exercicio30 {
     public static void main(String[] args) {
         int quant;
         double vlmc;

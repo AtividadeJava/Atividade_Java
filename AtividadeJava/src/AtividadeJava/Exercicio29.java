@@ -1,8 +1,8 @@
-package Lista100Ex;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class Ex29 {
+public class Exercicio29 {
     public static void main(String[] args) {
         String nome;
         float nota;

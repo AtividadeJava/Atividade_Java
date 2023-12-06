@@ -1,6 +1,6 @@
-package Logica_programacao;
+package logica_programacao;
 import java.util.Scanner;
-public class Ex41 {
+public class Exercicio41 {
 	 public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
 

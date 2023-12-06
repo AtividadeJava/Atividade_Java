@@ -1,8 +1,8 @@
-package Lista100Ex;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class Ex59 {
+public class Exercicio59 {
     public static void main(String[] args) {
         String nome;
         int idade, quant = 0, soma = 0, i = 0;

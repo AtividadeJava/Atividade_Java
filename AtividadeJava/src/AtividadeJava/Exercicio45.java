@@ -1,7 +1,7 @@
-package Logica_programacao;
+package logica_programacao;
 import java.util.Scanner;
 
-public class Ex45 {
+public class Exercicio45 {
 
     public static void main(String[] args) {
         int limite = 20;

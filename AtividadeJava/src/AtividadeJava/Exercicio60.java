@@ -1,6 +1,6 @@
-package Lista100Ex;
+package logica_programacao;
 
-public class Ex60 {
+public class Exercicio60 {
     public static void main(String[] args) {
         int num, n1 = 0, n2 = 1, n3 = 1, i = 0;
 

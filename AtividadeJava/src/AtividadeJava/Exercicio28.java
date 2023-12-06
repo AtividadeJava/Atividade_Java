@@ -1,8 +1,8 @@
-package Lista100Ex;
+package logica_programacao;
 
 import java.util.Scanner;
 
-public class Ex28 {
+public class Exercicio28 {
     public static void main(String[] args) {
         float peso, alt, imc;
 
